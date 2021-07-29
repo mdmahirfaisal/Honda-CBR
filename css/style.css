@@ -18,11 +18,15 @@ header{
     text-align: center;
     font-weight: bold;
 }
-/* .card-news{
-    margin: 0;
-    padding: 0;
-} */
 /* contact section  */
 .contact-us{
     background-color: rgba(148, 140, 133, 0.5);
+}
+.footer-link p{
+    font-size: 16px;
+}
+.footer-link a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
 }
